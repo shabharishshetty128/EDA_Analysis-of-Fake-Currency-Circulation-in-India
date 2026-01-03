@@ -1,1 +1,3 @@
-# Analysis-of-Fake-Currency-Circulation-in-India
+# EDA_Analysis-of-Fake-Currency-Circulation-in-India
+
+## This study examines the circulation of Fake Indian Currency Notes (FICNs) in India using historical secondary data sourced from authoritative institutions such as the Reserve Bank of India and the National Crime Records Bureau. The dataset, encompassing year-wise, denomination-wise, and state-wise counterfeit detections, was cleaned and standardized before conducting Exploratory Data Analysis to identify trends, regional concentrations, and notable fluctuations linked to national events like demonetization. The analysis adopts a descriptive and primarily quantitative research design, supported by visual interpretation to highlight patterns, regional hotspots, and periods of heightened counterfeit activity.
