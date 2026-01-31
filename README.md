@@ -12,8 +12,10 @@ Counterfeit currency poses a serious challenge to India’s economic stability a
  
 ## Research Methodology
 This project follows a two-phase methodology combining data analysis and machine learning-based detection to address counterfeit currency in India.
+
 Phase 1: Trend & Regional Analysis
 Secondary data was collected from reliable sources such as the Reserve Bank of India (RBI), National Crime Records Bureau (NCRB), and government reports. The dataset included yearly seizure counts, denominations, and state-wise distribution of counterfeit notes. After data cleaning and standardization, exploratory data analysis (EDA) was performed to identify trends and regional hotspots. Visualization tools like Tableau and IBM Cognos were used to present insights through heat maps, line charts, and tree maps.
+
 Phase 2: Automated Fake Note Detection
 A low-cost detection system was developed using the Banknote Authentication Dataset. Image processing techniques were used to extract statistical features such as variance, skewness, kurtosis, and entropy. These features were used to train machine learning models with a 70:30 train-test split. The best-performing model was integrated into a Python-based application for real-time authenticity verification. Due to dataset limitations (last updated in 2012), newer currency designs are not yet supported.
 
@@ -28,5 +30,8 @@ A low-cost detection system was developed using the Banknote Authentication Data
     ➢ JavaScript
 
 ## Data Source
-    ➢ Number of Counterfeit Notes Detected (April-March) from Reserve Bank of India: Annual Report Link: https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438
-    ➢ Denomination-wise Counterfeit Notes Detected in the Banking System (April-March)
+ - Number of Counterfeit Notes Detected from Reserve Bank of India: Annual Report [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
+ - Denomination-wise Counterfeit Notes Detected in the Banking System [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
+ - Seizure of Fake Indian Currency Note (FICN) from National Crime Record Bureau: ‘Crime in India’ publication [Link:](https://www.ncrb.gov.in/crime-in-india.html)
+ - Banknote-authentication dataset from OpenML. [Link:](https://www.openml.org/data/download/1586223/php50jXam)
+ - Various Real & Counterfeit currency notes images from Kaggele
