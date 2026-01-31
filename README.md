@@ -1,4 +1,4 @@
 # Analysis-of-Fake-Currency-Circulation-in-India-and-Detection-of-Fake-Notes
 
-### Counterfeit currency poses a serious challenge to India’s economic stability and public trust, contributing to financial losses and supporting illegal activities. As fake notes become more sophisticated, traditional detection methods are increasingly inefficient.
+Counterfeit currency poses a serious challenge to India’s economic stability and public trust, contributing to financial losses and supporting illegal activities. As fake notes become more sophisticated, traditional detection methods are increasingly inefficient.
 This project analyzes counterfeit currency trends across Indian states using official government and law-enforcement data to identify high-risk regions. It also proposes a cost-effective, automated fake note detection system using image processing and machine learning. Trained on the Banknote Authentication Dataset, the model uses key statistical features to accurately classify genuine and counterfeit notes, offering a scalable solution for banking, retail, and digital applications.
