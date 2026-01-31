@@ -36,6 +36,7 @@ A low-cost detection system was developed using the Banknote Authentication Data
  - JavaScript
 ## Dataset Used
  - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/FICN_Data_file.xlsx">FICN_Dataset</a>
+ - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/banknote_authentication.txt">Banknote_authentication_Dataset</a>
 
 ## Data Source
  - Number of Counterfeit Notes Detected from Reserve Bank of India: Annual Report [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
