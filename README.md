@@ -2,6 +2,12 @@
 
 Counterfeit currency poses a serious challenge to India’s economic stability and public trust, contributing to financial losses and supporting illegal activities. As fake notes become more sophisticated, traditional detection methods are increasingly inefficient. This project analyzes counterfeit currency trends across Indian states using official government and law-enforcement data to identify high-risk regions. It also proposes a cost-effective, automated fake note detection system using image processing and machine learning. Trained on the Banknote Authentication Dataset, the model uses key statistical features to accurately classify genuine and counterfeit notes, offering a scalable solution for banking, retail, and digital applications.
 
+## Overview
+ - [Project Objective](#projecct-objective)
+ - [Research Methodology](#research-methodology)
+ - [Tools and Technology Used](#tools-and-technology-used)
+ - [Data Source](#data-source)
+
 ## Project Objective
     ✓ Analyze the temporal trends of counterfeit currency circulation in India over a defined time period using historical data.
     ✓ Visualize the state-wise distribution of fake currency to identify regional patterns and potential hotspots of circulation.
@@ -20,14 +26,14 @@ Phase 2: Automated Fake Note Detection
 A low-cost detection system was developed using the Banknote Authentication Dataset. Image processing techniques were used to extract statistical features such as variance, skewness, kurtosis, and entropy. These features were used to train machine learning models with a 70:30 train-test split. The best-performing model was integrated into a Python-based application for real-time authenticity verification. Due to dataset limitations (last updated in 2012), newer currency designs are not yet supported.
 
 ## Tools and Technology Used
-    ➢ Microsoft Excel
-    ➢ IBM Cognos Analytics
-    ➢ Tableau Public
-    ➢ Python
-    ➢ Django
-    ➢ HTML
-    ➢ CSS
-    ➢ JavaScript
+ - Microsoft Excel
+ - IBM Cognos Analytics
+ - Tableau Public
+ - Python
+ - Django
+ - HTML
+ - CSS
+ - JavaScript
 
 ## Data Source
  - Number of Counterfeit Notes Detected from Reserve Bank of India: Annual Report [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
