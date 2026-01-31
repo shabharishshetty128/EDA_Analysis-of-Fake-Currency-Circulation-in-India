@@ -35,6 +35,8 @@ A low-cost detection system was developed using the Banknote Authentication Data
  - CSS
  - JavaScript
 
+## Findings and Analysis
+
 ## Data Source
  - Number of Counterfeit Notes Detected from Reserve Bank of India: Annual Report [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
  - Denomination-wise Counterfeit Notes Detected in the Banking System [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
