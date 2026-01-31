@@ -34,12 +34,13 @@ A low-cost detection system was developed using the Banknote Authentication Data
  - HTML
  - CSS
  - JavaScript
-
-## Findings and Analysis
-
+ 
 ## Data Source
  - Number of Counterfeit Notes Detected from Reserve Bank of India: Annual Report [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
  - Denomination-wise Counterfeit Notes Detected in the Banking System [Link:](https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1438)
  - Seizure of Fake Indian Currency Note (FICN) from National Crime Record Bureau: ‘Crime in India’ publication [Link:](https://www.ncrb.gov.in/crime-in-india.html)
  - Banknote-authentication dataset from OpenML. [Link:](https://www.openml.org/data/download/1586223/php50jXam)
  - Various Real & Counterfeit currency notes images from Kaggele
+
+## Findings and Analysis
+[FICN detected by banks in last 10 years](a)
