@@ -6,7 +6,11 @@ Counterfeit currency poses a serious challenge to India’s economic stability a
  - [Project Objective](#projecct-objective)
  - [Research Methodology](#research-methodology)
  - [Tools and Technology Used](#tools-and-technology-used)
+ - [Dataset Used](#dataset-used)
  - [Data Source](#data-source)
+ - [Findings and Analysis](#findings-and-analysis)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
 
 ## Project Objective
     ✓ Analyze the temporal trends of counterfeit currency circulation in India over a defined time period using historical data.
@@ -66,7 +70,7 @@ Regional & State-wise Insights (2016–2022)
  - Counterfeit activity was concentrated in economically active and border states such as West Bengal, Punjab, and Assam, indicating possible cross-border smuggling routes.
  - Smaller states and Union Territories showed minimal seizure values, suggesting lower penetration or limited circulation.
 
-## Recommendation
+## Recommendations
  - Enhance currency security features, especially for high-use notes like ₹100 and ₹500.
  - Increase public awareness on identifying fake notes using visible security markers.
  - Strengthen border surveillance in high-risk states such as West Bengal, Punjab, and Assam.
