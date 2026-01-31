@@ -43,4 +43,5 @@ A low-cost detection system was developed using the Banknote Authentication Data
  - Various Real & Counterfeit currency notes images from Kaggele
 
 ## Findings and Analysis
-[FICN detected by banks in last 10 years](a)
+[FICN detected by banks in last 10 years](<img width="939" height="496" alt="image" src="https://github.com/user-attachments/assets/bf0a62e0-5719-44c6-964d-ea55d181d0ea" />)
+
